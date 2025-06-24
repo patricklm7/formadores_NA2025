@@ -16,4 +16,6 @@ p {
 header{
     border-bottom: dotted 3px violet;
     padding: 20px;
+    font-size: 1.5rem;
+    color: violet;
 }
