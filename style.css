@@ -1,6 +1,6 @@
 body {
     background-image: linear-gradient(black, gray);
-    color: white;
+    color: lightgray;
     font-family:"play", sans-serif;
     margin: 0px;
 }
@@ -14,8 +14,8 @@ p {
 }
 
 header{
-    border-bottom: dotted 3px violet;
+    border-bottom: double 3px #9932CC;
     padding: 20px;
     font-size: 1.5rem;
-    color: rgb(201, 5, 235);
+    color: #8A2BE2;
 }
