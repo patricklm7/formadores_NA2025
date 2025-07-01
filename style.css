@@ -1,6 +1,5 @@
 body {
-    background-image: linear-gradient(black, gray);
-    color: lightgray;
+    background-color: lightgrey;
     font-family:"play", sans-serif;
     margin: 0px;
 }
@@ -18,4 +17,10 @@ header{
     padding: 20px;
     font-size: 1.5rem;
     color: #8A2BE2;
+}
+
+section {
+    background-image: linear-gradient(black, gray);
+    padding-bottom: 80px;
+    padding-top: 80px;
 }
