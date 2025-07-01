@@ -13,6 +13,7 @@ p {
 }
 
 header{
+    background-color: black;
     border-bottom: double 3px #9932CC;
     padding: 20px;
     font-size: 1.5rem;
