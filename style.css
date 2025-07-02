@@ -6,10 +6,12 @@ body {
 
 h1 {
     font-size: 40px;
+    color: lightgray;
 }
 
 p {
     font-size: 21px;
+    color: lightgray;
 }
 
 header{
@@ -26,4 +28,8 @@ section {
     padding-top: 80px;
     display: flex;
     justify-content: center;
+}
+
+.texto {
+    padding-right: 35px;
 }
