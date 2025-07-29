@@ -32,4 +32,14 @@ section {
 
 .texto {
     margin-right: 35px;
+    background: rgb(184, 156, 213);
+  padding-bottom: 80px;
+  padding-top: 80px;
+  display: flex;
+  justify-content: center;
+
+}
+
+img {
+    height: 200px;
 }
