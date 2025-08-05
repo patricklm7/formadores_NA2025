@@ -38,3 +38,10 @@ section {
 img {
     height: 200px;
 }
+
+.categoria-games {
+    display: flex;
+    overflow-x: auto;
+    gap: 10px;
+    
+}
